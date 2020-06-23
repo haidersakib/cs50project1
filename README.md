@@ -1,2 +1,3 @@
-# cs50project1
-web development in cs50
+# Project 1
+
+Web Programming with Python and JavaScript
